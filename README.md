@@ -32,7 +32,7 @@ Based on this design, we should be able to detect doublets both across and withi
 ## Installation (in R/RStudio)
 
 ```R
-remotes::install_github('JayShinLab/main')
+remotes::install_github('JayShinLab/scCLINIC')
 ```
 
 ## Dependencies
