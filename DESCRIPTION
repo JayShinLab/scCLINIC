@@ -1,0 +1,12 @@
+Package: scCLINIC
+Type: Package
+Title: scCLINIC: single-cell CLeaner: Identify aNd Interpret Contaminations
+Version: 0.1.1
+Author: Yu Xing TEO, Yi Xiang SEE, Xin Yi THAN, Elaine CAO, Burton CHIA and Jay SHIN
+Maintainer: Yu Xing TEO <email@email.com>
+Description: scCLINIC is an R package that identifies potential artifacts in single-cell RNA sequencing data (including doublets, multiplets and local contamination) and suggests potential source(s) of these artifacts. 
+License: 
+Imports: Seurat, dplyr, pracma, ggplot2, tidyr, pheatmap, viridisLite, reshape2, cowplot
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1.9000
